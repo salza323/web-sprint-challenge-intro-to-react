@@ -9,5 +9,5 @@ export default{
     paddingLg: '16px', 
     paddingXl: '32px',
     mobileBreakpoint: '(max-width: 550px',
-    border: 'solid black',
+    border: 'solid',
 }
