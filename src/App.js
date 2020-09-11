@@ -27,7 +27,7 @@ const App = () => {
     <div className="App">
       <h1 className="Header">Star Wars Gang</h1>
       <div className = 'main-content'>
-        {state.map(person => <CharacterData key ={person.toString()} person={ person }/>)}
+        {state.map(person => <CharacterData key ={person.name} person={ person }/>)}
       </div>
     </div>
   );

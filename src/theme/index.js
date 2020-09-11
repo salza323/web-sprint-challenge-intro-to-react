@@ -10,4 +10,5 @@ export default{
     paddingXl: '32px',
     mobileBreakpoint: '(max-width: 550px',
     border: 'solid',
+    fontOne: 'serif',
 }

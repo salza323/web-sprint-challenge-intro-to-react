@@ -29,10 +29,13 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
+ JS library that makes it easier to build UIs with conmponents. 
 
 1. Describe component state.
+where property values are stored to be used. 
 
 1. Describe props.
+properties of components 
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
 

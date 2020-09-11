@@ -13,6 +13,8 @@ const StyledCharacter = styled.div `
     border-color: ${pr=> pr.theme.tertiaryColor};
     border-radius: 10%;
     max-width: 80%;
+    margin: 0 auto;
+    font-family: ${pr=> pr.theme.fontOne};
 
     .name{
         color: ${pr=> pr.theme.secondaryColor};
